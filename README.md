@@ -10,3 +10,5 @@
 3. 使用map和queue管理任务和对象
 4. 基于condition_variable和mutex实现任务提交和任务执行线程的通信
 
+## 项目整体流程
+![image-20231201084534118](https://obsidians-pics.oss-cn-beijing.aliyuncs.com/image-20231201084534118.png)
